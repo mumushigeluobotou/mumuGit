@@ -25,6 +25,7 @@ public class MyTest {
         });
         star.playMovie(100.00);
         star.singSong(100.00);
+        System.out.println("提交一次");
     }
 }
 
