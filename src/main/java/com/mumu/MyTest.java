@@ -26,6 +26,7 @@ public class MyTest {
         star.playMovie(100.00);
         star.singSong(100.00);
         System.out.println("提交一次");
+        System.out.println("提交两次你");
         System.out.println("我第二次提交");
     }
 }
